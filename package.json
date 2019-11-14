@@ -1,0 +1,31 @@
+{
+  "name": "full-stack-react-app-tutorial",
+  "version": "1.0.0",
+  "description": "full stack react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadtelnet/full-stack-react-app-tutorial.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "jawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadtelnet/full-stack-react-app-tutorial/issues"
+  },
+  "homepage": "https://github.com/jawadtelnet/full-stack-react-app-tutorial#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "nodemon": "^1.19.4"
+  }
+}
